@@ -1,0 +1,16 @@
+BasedOnStyle: LLVM
+AccessModifierOffset: -4
+AllowShortBlocksOnASingleLine: Always
+AllowShortFunctionsOnASingleLine: InlineOnly
+AllowShortIfStatementsOnASingleLine: true
+AllowShortLoopsOnASingleLine: true
+AlwaysBreakTemplateDeclarations: Yes
+ColumnLimit: 80
+ConstructorInitializerAllOnOneLineOrOnePerLine: true
+IndentRequires: true
+IndentWidth: 4
+MaxEmptyLinesToKeep: 2
+PointerAlignment: Left
+SortIncludes: false
+SortUsingDeclarations: false
+TabWidth: 4
